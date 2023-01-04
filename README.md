@@ -1,4 +1,4 @@
-# Tabuada - Tabuada de Multiplicação.
+# Tabuada de Multiplicação.
 
 > Projeto básico desenvolvido com JavaScript, HTML e CSS.
 
