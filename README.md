@@ -1,4 +1,4 @@
-# Clone - Tela de Login Instagram
+# Tabuada - Tabuada de Multiplicação.
 
 > Projeto básico desenvolvido com JavaScript, HTML e CSS.
 
